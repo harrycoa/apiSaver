@@ -14,7 +14,7 @@ const lorem = new LoremIpsum({
 
 let database = {
     users: [
-        { id: "ec954c0f-d9aa-4d4f-b90c-65d44ea52423", email: "admin@kodoti.com", name: "Eduardo", password: "123456", "token": null },
+        { id: "ec954c0f-d9aa-4d4f-b90c-65d44ea52423", email: "rharrycoa@gmail.com", name: "Harry", password: "123456", "token": null },
         { id: "4524edee-01ce-4ac7-8c4e-b43ba361d985", email: "test@kodoti.com", name: "Juancho", password: "123456", "token": null }
     ],
     outcomes: []
